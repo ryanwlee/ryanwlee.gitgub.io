@@ -6,7 +6,7 @@ tags:
     - richEngineer
 last_modified_at: 2020-09-05T00:00:00-00:00
 ---
-![Why Canadian engineers should buy tech stocks?](https://github.com/ryanwlee/ryanwlee.github.io/tree/master/images/20200905-1.jpeg)
+![Why Canadian engineers should buy tech stocks?](images/20200905-1.jpeg)
 
 Hello guys, Ryan again. Thank you so much everyone who clapped my writings. It was only a few but I couldn’t sleep! (literally, couldn’t sleep with a joy) Anyway, thank you guys so much who read and please feel free to share your thoughts. I really would like to use these posts as a group chat with a bunch of friends. 😊
 
