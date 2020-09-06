@@ -6,7 +6,7 @@ tags:
     - richEngineer
 last_modified_at: 2020-09-05T00:00:00-00:00
 ---
-![Why Canadian engineers should buy tech stocks?](images/20200905-1.jpeg)
+![Why Canadian engineers should buy tech stocks?](/images/20200905-1.jpeg)
 
 Hello guys, Ryan again. Thank you so much everyone who clapped my writings. It was only a few but I couldn’t sleep! (literally, couldn’t sleep with a joy) Anyway, thank you guys so much who read and please feel free to share your thoughts. I really would like to use these posts as a group chat with a bunch of friends. 😊
 
@@ -21,17 +21,17 @@ After the COVID pandemic started, I was bored. No social life, no office life, j
 
 There is a stock market graph called the S&P 500. It is an index that shows the stock performance of 500 large companies listed on stock exchanges in the United States. Let’s say I am a very cautious guy. I like to invest and make money but I don’t want to lose my precious savings. Also, I have no idea what companies I want to invest in. So, I just decided to buy an ETF (similar to stock but you don’t buy a share of the company, you follow the index) called “SPDR S&P 500 ETF Trust (SPY)”. So whenever 500 companies do well, it goes up. Otherwise, go down. I bought one 5 years ago and forgot about it. And today, I remembered I bought one and decided to find what happened to it.
 
-![sp500](https://github.com/ryanwlee/ryanwlee.github.io/tree/master/images/20200905-2.png)
+![sp500](/images/20200905-2.png)
 
 In 2015, it was around $190. Now, $342. There was up and down but you can see the big trend is going up. Isn’t it interesting? You didn’t even select specific profitable companies. You just bought a little bit of 500 companies in the US and you almost doubled your money in 5 years. If we see about 20 years, even better. It was around $40 in 1993. Times 8 in 20 years… Sounds like a dream.
 
 Let’s check another example. There is a stock market called Nasdaq and there is an ETF called QQQ which tracks the top 100 companies in Nasdaq. Again, I don’t know anything, so I just decided to buy one 5 years ago. Let’s see the graph.
 
-![nasdaq](https://github.com/ryanwlee/ryanwlee.github.io/tree/master/images/20200905-3.png)
+![nasdaq](/images/20200905-3.png)
 
 Interesting, almost the same as the other graph. It was $105 in 2015. Now, $283. Doubled and more… I realized the pattern here. There is a lot of ups and downs. But if you see the long term, the overall stock market is growing and getting bigger. I started checking all famous tech companies and big companies. Here are the price changes.
 
-![table](https://github.com/ryanwlee/ryanwlee.github.io/tree/master/images/20200905-4.png)
+![table](/images/20200905-4.png)
 
 Wow… Amazing, right? And interestingly, even Walmart doubled. It is not even a tech company but still doubled. Too good to be true? Check every tech company stock you know. Compare any previous year and the year after 5. So I concluded the following: If I invest long term (>5 years), I make a profit more than a regular saving account (way more). Also, whatever I make a profit with it, I don’t need to pay any tax with the TFSA account.
 
