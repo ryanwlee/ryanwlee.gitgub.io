@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bestwestern/static/css/main.28d9c1c7.chunk.css",
+    "main.js": "/bestwestern/static/js/main.13b82c42.chunk.js",
+    "main.js.map": "/bestwestern/static/js/main.13b82c42.chunk.js.map",
+    "runtime-main.js": "/bestwestern/static/js/runtime-main.93a149a3.js",
+    "runtime-main.js.map": "/bestwestern/static/js/runtime-main.93a149a3.js.map",
+    "static/css/2.06fce332.chunk.css": "/bestwestern/static/css/2.06fce332.chunk.css",
+    "static/js/2.79e42ba4.chunk.js": "/bestwestern/static/js/2.79e42ba4.chunk.js",
+    "static/js/2.79e42ba4.chunk.js.map": "/bestwestern/static/js/2.79e42ba4.chunk.js.map",
+    "index.html": "/bestwestern/index.html",
+    "precache-manifest.d13f0233177aced937cc90aee0f02885.js": "/bestwestern/precache-manifest.d13f0233177aced937cc90aee0f02885.js",
+    "service-worker.js": "/bestwestern/service-worker.js",
+    "static/css/2.06fce332.chunk.css.map": "/bestwestern/static/css/2.06fce332.chunk.css.map",
+    "static/css/main.28d9c1c7.chunk.css.map": "/bestwestern/static/css/main.28d9c1c7.chunk.css.map",
+    "static/js/2.79e42ba4.chunk.js.LICENSE.txt": "/bestwestern/static/js/2.79e42ba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93a149a3.js",
+    "static/css/2.06fce332.chunk.css",
+    "static/js/2.79e42ba4.chunk.js",
+    "static/css/main.28d9c1c7.chunk.css",
+    "static/js/main.13b82c42.chunk.js"
+  ]
+}
